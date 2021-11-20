@@ -1,0 +1,2 @@
+# Bachelorarbeit
+Turing Pattern Bachelorarbeit
